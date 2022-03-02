@@ -1,8 +1,11 @@
 # HRPresence
 
 Windows GATT heartrate monitor tool that pushes BPM to OpenSoundControl (OSC) and DiscordRPC.
+Simply connect any generic Bluetooth heartrate monitor to your computer and run the application!
 
 ```toml
+# config.toml
+
 # Restart if x seconds of no communication
 time_out_interval = 4.0
 
