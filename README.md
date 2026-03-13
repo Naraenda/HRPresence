@@ -1,3 +1,8 @@
+> [!WARNING]
+> This repo is archived. Please use something newer like:
+> * https://github.com/nullstalgia/iron-heart
+> * https://github.com/Naraenda/osc-hr-ble
+
 # HRPresence
 
 Windows GATT heartrate monitor tool that pushes BPM to OpenSoundControl (OSC) for VRChat and DiscordRPC.
